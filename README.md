@@ -1,4 +1,4 @@
-Z<h1 align="center"> First Project </h1>
+<h1 align="center"> First Project </h1>
 
 <p align="center">
 Projeto exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
